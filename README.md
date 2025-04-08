@@ -49,7 +49,8 @@ The goal is to distribute incoming traffic **efficiently and adaptively** withou
 # Authors
 
 *Lab rats caught* 🧠💻🌐
-*Don't get angry, eat jangiri* 🧠💻🌐
+
+*Don't get angry, eat jangiri*😅😹
 
 Prudhvi Ponnada: ponnadaprudhvi18@gmail.com
 Siri Venturi: really rat, s3.venturi@gmail.com 🧘‍♂️.
