@@ -60,8 +60,8 @@ Siri Venturi: really rat, s3.venturi@gmail.com 🧘‍♂️.
 
 ```bash
 # Clone the repo
-git clone https://github.com/prudhviponnada/load-balancer.git
-cd adaptive-load-balancer
+git clone https://github.com/prudhviponnada/Dynamic_loadbalancer
+cd Dynamic_loadbalancer
 
 # Build and run containers
 docker-compose up --build
