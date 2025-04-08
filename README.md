@@ -173,6 +173,5 @@ docker-compose up --build
 
   <h2>📬 Contribute</h2>
   <p>Want to contribute or have suggestions? Fork this repo or open an issue!</p>
-  <p>Want to contribute or have suggestions? Fork this repo or open an issue!</p>
 </body>
 </html>
