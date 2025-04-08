@@ -1,0 +1,44 @@
+version: '3.3'
+
+services:
+  server1:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: server1
+    networks:
+      - gp9
+
+  server2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: server2
+    networks:
+      - gp9
+
+  server3:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: server3
+    networks:
+      - gp9
+
+  gp9_loadbalancer:
+    build:
+      context: ./loadbalancer
+      dockerfile: Dockerfile
+    container_name: gp9_loadbalancer
+    depends_on:
+      - server1
+      - server2
+      - server3
+    ports:
+      - "80:8080"
+    networks:
+      - gp9
+
+networks:
+  gp9:
+    driver: bridge
