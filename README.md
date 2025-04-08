@@ -46,7 +46,15 @@ The goal is to distribute incoming traffic **efficiently and adaptively** withou
 5. 🔁 Response routed to client.
 
 ---
+# Authors
 
+*Lab rats caught* 🧠💻🌐
+*Don't get angry, eat jangiri* 🧠💻🌐
+
+Prudhvi Ponnada: ponnadaprudhvi18@gmail.com
+Siri Venturi: really rat, s3.venturi@gmail.com 🧘‍♂️.
+
+---
 ## 📦 How to Run
 
 ```bash
