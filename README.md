@@ -167,11 +167,12 @@ docker-compose up --build
 
   <h2>👨‍💻 Authors</h2>
   <ul>
-    <li><strong>Prudhvi Ponnada</strong>: ponnadaprudhvi18@gmail.com</li>
-    <li><strong>Sai Siri Sree Venturi</strong>: s3.venturi@gmail.com</li>
+    <li><strong>Prudhvi Ponnada</strong></li>
+    <li><strong>Sai Siri Sree Venturi</strong></li>
   </ul>
 
   <h2>📬 Contribute</h2>
   <p>Want to contribute or have suggestions? Fork this repo or open an issue!</p>
+
 </body>
 </html>
